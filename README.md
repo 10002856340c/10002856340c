@@ -1,4 +1,12 @@
-### Hi there 👋
+### 
+Hello community👋 
+My name is Cristian, I am currently passionate about technology, I am currently studying:
+OOP
+python
+Java
+css
+html 
+
 
 Here are some ideas to get you started:
 
