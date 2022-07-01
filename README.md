@@ -28,7 +28,7 @@
   <br>
   💻 Me apasiona aprender cada dia nuevas tecnologias, y sobre todo especializarme en ellas
   <br>
-  📚 Conocimientos  en Tecnologias como CSS , HTML5, javaScript, Python
+  📚 Conocimientos  en Tecnologias como CSS , HTML5, javaScript, Python , git
   <br>
 </p>
 
