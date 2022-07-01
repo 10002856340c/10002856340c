@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
- Hola comunidad , mi nombre es cristian soy estudiante de ingenieria de sistemas, actualmente soy tripulante de mision tic 2022,una persona apasionada por la      tecnologia
+ Hola comunidad , mi nombre es Cristian soy estudiante de ingenieria de sistemas, una perosna apasionada por la Tecnologia.
   <br>
   <br>
   🔬 Tripulante de Mision Tic 2022
