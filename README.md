@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
- Hola comunidad , mi nombre es Cristian soy estudiante de ingenieria de sistemas, una perosna apasionada por la Tecnologia.
+ Hola comunidad , mi nombre es Cristian soy estudiante de ingenieria de sistemas, una persona apasionada por la Tecnologia.
   <br>
   <br>
   🔬 Tripulante de Mision Tic 2022
