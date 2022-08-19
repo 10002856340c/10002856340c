@@ -24,8 +24,6 @@
   <br>
   🎓 Estudiante de Ingenieria de Sistemas de la Universidad ECCI
   <br>
-  🎓 Estudiante de Alura LATAM-ORACLE-ONE
-  <br>
   💻 Me apasiona aprender cada dia nuevas tecnologias, y sobre todo especializarme en ellas
   <br>
   📚 Conocimientos  en Tecnologias como CSS , HTML5, javaScript, Python, Java, git
