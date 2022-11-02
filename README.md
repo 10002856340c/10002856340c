@@ -26,7 +26,7 @@
   <br>
   💻 Me apasiona aprender cada dia nuevas tecnologias, y sobre todo especializarme en ellas
   <br>
-  📚 Conocimientos  en Tecnologias como CSS , HTML5, javaScript, Python, Java, git
+  📚 Conocimientos  en Tecnologias como CSS , HTML5, Python, Java, git ,SQL
   <br>
 </p>
 
@@ -35,7 +35,6 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
-  <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
   <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
   <code><img title="CSS" height="25" src="https://res.cloudinary.com/marcomadera/image/upload/v1602894559/Blog/7/css_k23ypb.png"></code>
   <code><img title="Git" height="25" src=https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png></code>
