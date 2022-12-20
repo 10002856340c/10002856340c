@@ -24,12 +24,15 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Abilities 🔥</h2>
+<h2 align="center">🔥 
+knowledge and skills🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
   <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
   <code><img title="SQL" height="25" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png"></code>
+   <code><img title="Visual Studio Code" height="25" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-thumb.png"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://www.clipartmax.com/png/middle/296-2960583_open-git-icon-png.png"></code>
  
   
