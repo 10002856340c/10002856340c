@@ -15,11 +15,11 @@
 </h5>
 <br>
 <p align="center">
- Hola comunidad , mi nombre es Cristian soy estudiante de ingenieria de sistemas, una persona apasionada por la Tecnologia.
+ Hola comunidad , mi nombre es Cristian soy estudiante de Ingenieria de Sistemas, una persona apasionada por la Tecnologia y el mundo de la Data
   <br>
   💻 Me apasiona aprender cada dia nuevas tecnologias, y sobre todo especializarme en ellas
   <br>
-  📚 Conocimientos  en Tecnologias como  Python, Java, git ,SQLserver,MYSQL
+  📚 Conocimientos  en Tecnologias como  Python, Java, git , SQLserver, MYSQL , AWS
   <br>
 </p>
 
