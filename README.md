@@ -19,14 +19,9 @@
 <p align="center">
  Hola comunidad , mi nombre es Cristian soy estudiante de ingenieria de sistemas, una persona apasionada por la Tecnologia.
   <br>
-  <br>
-  🔬 Tripulante de Mision Tic 2022
-  <br>
-  🎓 Estudiante de Ingenieria de Sistemas de la Universidad ECCI
-  <br>
   💻 Me apasiona aprender cada dia nuevas tecnologias, y sobre todo especializarme en ellas
   <br>
-  📚 Conocimientos  en Tecnologias como CSS , HTML5, Python, Java, git ,SQL
+  📚 Conocimientos  en Tecnologias como  Python, Java, git ,SQLserver,MYSQL
   <br>
 </p>
 
