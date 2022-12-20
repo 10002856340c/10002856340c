@@ -12,8 +12,6 @@
 
 
 
-  
- 
 </h5>
 <br>
 <p align="center">
@@ -31,8 +29,7 @@
 <p align="center">
   <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
   <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-  <code><img title="CSS" height="25" src="https://res.cloudinary.com/marcomadera/image/upload/v1602894559/Blog/7/css_k23ypb.png"></code>
-  <code><img title="Git" height="25" src=https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png></code>
+  <code><img title="SQL" height="25" src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://www.clipartmax.com/png/middle/296-2960583_open-git-icon-png.png"></code>
  
   
